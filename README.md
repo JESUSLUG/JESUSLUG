@@ -19,7 +19,7 @@
 Hi there, I'm **Eduardo Lugo Vela**, a **Computer System Engineering student** 🚀.
  <!-- I am an active member of **AAAIMX**, and an active participant in the Cybersecurity Club. -->
 
-  <img align="right" alt="GIF" src="https://media1.tenor.com/m/XuJVg9rDXrgAAAAd/hackerman.gif" />
+  <img align="right" alt="GIF" src="https://media1.tenor.com/m/XuJVg9rDXrgAAAAd/hackerman.gif" width="200" height="200"/>
 
 **About Me!**
 
