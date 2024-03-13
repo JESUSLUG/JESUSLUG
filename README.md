@@ -69,6 +69,9 @@ Hi there, I'm **Eduardo Lugo Vela**, a **Computer System Engineering student** ð
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeillustrator.svg"></code>
 
+
+<br><br>
+
 **Development Projects:** 
 
 Security event, in which we want to blend CTF and Bug Bounty. With an academic focus, **called HackHowl**.
