@@ -12,7 +12,7 @@
 
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
+<img src="https://komarev.com/ghpvc/?username=JESUSLUG&color=blueviolet">
 <br />
 <br />
 
