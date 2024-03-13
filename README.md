@@ -1,10 +1,3 @@
----
-title: JESUSLUG
-date: 2024-02-11
-spoiler: Dynamic-realtime template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'JESUSLUG'
----
 <h3 title="hehehe"> Hey ðŸ‘‹, I'm Eduardo Lugo Vela!</h3>
 
 <a href="https://www.linkedin.com/in/jesus-lugo-vela-1778a2260/">
@@ -41,7 +34,6 @@ Hi there, I'm **Eduardo Lugo Vela**, a **Computer System Engineering student** ð
 **Languages and Tools:**  
 
 
-<code><img height="20" src=""></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"></code>
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"></code>
