@@ -72,7 +72,7 @@ Hi there, I'm **Eduardo Lugo Vela**, a **Computer System Engineering student** ð
 
 <br><br>
 
-**Development Projects:** 
+**Ongoing projects on cybersecurity:** 
 
 Security event, in which we want to blend CTF and Bug Bounty. With an academic focus, **called HackHowl**.
 <code><img height="20" src="https://hackhowl.onrender.com/assets/logo.png"></code>
