@@ -35,7 +35,6 @@ Hi there, I'm **Eduardo Lugo Vela**, a **Computer System Engineering student** ð
 
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"></code>
-
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg"></code>
