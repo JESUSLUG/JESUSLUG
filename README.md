@@ -1,5 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Eduardo Lugo Vela!</h3>
- <code><img height="20" src="https://static.platzi.com/cdn-cgi/image/width=96,quality=75,format=auto/media/learningpath/badges/bf1d1731-0634-4537-b83f-0580e4f07bb7.jpg"></code>
+
+
 
 <a href="https://www.linkedin.com/in/jesus-lugo-vela-1778a2260/">
   <img align="left" alt="Eduardo's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -10,7 +11,9 @@
 <a href="https://www.facebook.com/jesuseduardo.lugovela.395">
   <img align="left" alt="Eduardo's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<br>
+ <code><img height="20" src="https://static.platzi.com/cdn-cgi/image/width=96,quality=75,format=auto/media/learningpath/badges/bf1d1731-0634-4537-b83f-0580e4f07bb7.jpg"></code>
+ <code><img height="20" src="https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-ethical-hacking-7882aa60-a295-4abd-8891-b60c482700cf.png"></code>
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=JESUSLUG&color=blueviolet">
