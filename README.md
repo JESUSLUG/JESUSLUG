@@ -82,6 +82,7 @@ Hi there, I'm **Eduardo Lugo Vela**, a **Computer System Engineering student** ð
 <br><br>
 
 HTB, completed machines:
+<br><br>
 <code><img height="30" src="https://partyhack.cl/assets/images/post/2024/cozyhosting.png"></code>
 
 
