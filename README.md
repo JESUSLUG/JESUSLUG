@@ -21,7 +21,7 @@
 <br />
 <br />
 
-Hi there, I'm **Eduardo Lugo Vela**, a **Computer System Engineering student** 🚀.
+Hi there, I'm **Eduardo Lugo Vela**, a **Computer Systems Engineering student with a specialty in cybersecurity**🚀.
  <!-- I am an active member of **AAAIMX**, and an active participant in the Cybersecurity Club. -->
 
   <img align="right" alt="GIF" src="https://media1.tenor.com/m/XuJVg9rDXrgAAAAd/hackerman.gif" width="200" height="200"/>
