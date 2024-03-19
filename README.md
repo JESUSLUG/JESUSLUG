@@ -23,7 +23,8 @@ Hi there, I'm **Eduardo Lugo Vela**, a **Computer System Engineering student** �
 
 **About Me!**
 
-- 👨🏽‍💻 I’m an active member of AAAIMX.
+- 👨🏽‍💻 I’m an active member of AAAIMX. 
+- Active member of the student chapter's cybersecurity club.   <code><img height="20" src="https://www.aaaimx.org/cyber/assets/images/Logocyber.png"></code>
 - 🌱 I’m always interested in Penetration Testing, from black box to white box. Studying and trying to acquire new knowledge. 
 - 💼 I’m always interested in cybersecurity, striving to learn and improve my knowledge in ISO 27001.
 - 💬 Ask me about anything, I love to answer!
