@@ -1,4 +1,5 @@
 <h3 title="hehehe"> Hey 👋, I'm Eduardo Lugo Vela!</h3>
+ <code><img height="20" src="https://static.platzi.com/cdn-cgi/image/width=96,quality=75,format=auto/media/learningpath/badges/bf1d1731-0634-4537-b83f-0580e4f07bb7.jpg"></code>
 
 <a href="https://www.linkedin.com/in/jesus-lugo-vela-1778a2260/">
   <img align="left" alt="Eduardo's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -24,7 +25,7 @@ Hi there, I'm **Eduardo Lugo Vela**, a **Computer System Engineering student** �
 **About Me!**
 
 - 👨🏽‍💻 I’m an active member of AAAIMX. 
-- Active member of the student chapter's cybersecurity club.   <code><img height="20" src="https://www.aaaimx.org/cyber/assets/images/Logocyber.png"></code>
+- Active member of the student chapter's cybersecurity club.   <code><img height="25" src="https://www.aaaimx.org/cyber/assets/images/Logocyber.png"></code>
 - 🌱 I’m always interested in Penetration Testing, from black box to white box. Studying and trying to acquire new knowledge. 
 - 💼 I’m always interested in cybersecurity, striving to learn and improve my knowledge in ISO 27001.
 - 💬 Ask me about anything, I love to answer!
