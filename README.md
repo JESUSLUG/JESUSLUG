@@ -16,6 +16,7 @@
  <code><img height="30" src="https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-ethical-hacking-7882aa60-a295-4abd-8891-b60c482700cf.png"></code>
 <br>
 <br>
+
 <img src="https://komarev.com/ghpvc/?username=JESUSLUG&color=blueviolet">
 <br />
 <br />
@@ -33,6 +34,7 @@ Hi there, I'm **Eduardo Lugo Vela**, a **Computer System Engineering student** �
 - 💼 I’m always interested in cybersecurity, striving to learn and improve my knowledge in ISO 27001.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [jesus.lugo.conctaco@gmail.com](mailto:jesus.lugo.conctaco@gmail.com).
+
 
 
 
@@ -76,6 +78,11 @@ Hi there, I'm **Eduardo Lugo Vela**, a **Computer System Engineering student** �
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeaftereffects.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeillustrator.svg"></code>
+
+<br><br>
+
+HTB, completed machines:
+<code><img height="30" src="https://partyhack.cl/assets/images/post/2024/cozyhosting.png"></code>
 
 
 <br><br>
