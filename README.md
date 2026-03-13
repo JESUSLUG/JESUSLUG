@@ -1,9 +1,5 @@
 <h3>Hey 👋, I'm Eduardo Lugo Vela!</h3>
 
-- LinkedIn profile 
-<a href="https://www.linkedin.com/in/eduardo-lugo-vela-1778a2260/">
-  <img align="left" alt="Eduardo's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
 <br><br><br>
 
@@ -14,6 +10,12 @@
 Hi there, I'm **Eduardo Lugo Vela**, a **DevOps & Cloud Engineer focused on building scalable infrastructure, automation pipelines and secure platforms** 
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/XuJVg9rDXrgAAAAd/hackerman.gif" width="200"/>
+- LinkedIn profile 
+<a href="https://www.linkedin.com/in/eduardo-lugo-vela-1778a2260/">
+  <img align="left" alt="Eduardo's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+
 
 ---
 
