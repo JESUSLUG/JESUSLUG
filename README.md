@@ -1,14 +1,10 @@
 <h3>Hey 👋, I'm Eduardo Lugo Vela!</h3>
 
----
-
-# Linkedin
-
+- LinkedIn profile 
 <a href="https://www.linkedin.com/in/eduardo-lugo-vela-1778a2260/">
   <img align="left" alt="Eduardo's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
----
 <br><br><br>
 
 <img src="https://komarev.com/ghpvc/?username=JESUSLUG&color=blueviolet">
