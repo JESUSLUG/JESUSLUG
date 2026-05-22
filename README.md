@@ -4,7 +4,7 @@
 
 DevOps & Cloud Engineer · AWS · IaC · Kubernetes · CI/CD 
 
-<a href="https://www.linkedin.com/in/eduardo-lugo-vela-1778a2260/">LinkedIn</a> · jesus.lugo.conctaco@gmail.com
+<a href="https://www.linkedin.com/in/eduardo-lugo-vela-1778a2260/">LinkedIn</a>
 
 ---
 
