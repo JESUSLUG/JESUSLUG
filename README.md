@@ -8,4 +8,4 @@ DevOps & Cloud Engineer · AWS · IaC · Kubernetes · CI/CD
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=JESUSLUG&theme=shades-of-purple&hide_border=true"/>
+![Repos contributed to by JESUSLUG](https://github-contrib-stats.vercel.app/JESUSLUG/contributed.svg)
